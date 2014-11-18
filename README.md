@@ -7,16 +7,14 @@ Written by	秋风落木
 A Secondary Element Specie in China
 
 ========================
-liyawei.cn 
-root@liyawei.cn
-https://github.com/chiruom/
+http://liyawei.cn
+root@liyawei.cn 
+https://github.com/chiruom/ 
 
 ========================
 Introduction
 
-This tool can give you a hand if you want to discover stored XSS in your Web
-
-Application.
+This tool can give you a hand if you want to discover stored XSS in your Web Application.
 
 However,This tool is a beta edition now, So some bugs may be found when use it,You can edit the python code by yourself or       connect author by root@liyawei.cn as well as in Github.com . Thanks for your support , if you can give me useful advice,I will very happy!
 Theory
