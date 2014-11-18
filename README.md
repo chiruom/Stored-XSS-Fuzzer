@@ -1,7 +1,7 @@
 Stored	XSS	Fuzzer
-
-Beta 1
 ========================
+Beta 1
+
 
 Written by	秋风落木
 A Secondary Element Specie in China
