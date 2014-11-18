@@ -7,11 +7,11 @@ Written by	秋风落木
 A Secondary Element Specie in China
 
 ========================
-
 liyawei.cn 
 root@liyawei.cn
 https://github.com/chiruom/
- ========================
+
+========================
 Introduction
 
 This tool can give you a hand if you want to discover stored XSS in your Web
@@ -22,6 +22,8 @@ However,This tool is a beta edition now, So some bugs may be found when use it,Y
 Theory
 
 This tool include a proxy to record the input and output points of user`s data when you browse your Web Application,and After your browsing,This tool will Resend the HTTP Request of the input point and output point many times,as the same time cheak the output ponits.The Tool will classify the Output points based the specific location (html,JavaScript,Css,eg)of data too.This process is a Fuzzing Test .
+
+========================
 Usega
 
 1. Open the Record.py .Set your browser proxy to 127.0.0.1:8083(you can change this in Record.py )
@@ -45,6 +47,7 @@ HPPT request.
 
 
 
+========================
 Expansion
 
 All the XSS Fuzz Vectors are in dict ./_XSS/ ,XSS Vectors are classifide in *.txt
