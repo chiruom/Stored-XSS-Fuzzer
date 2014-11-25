@@ -1,3 +1,0 @@
-ABC<div style="x*chr*expression(log(*num*))">DEF
-"'`>ABC<div style="font-family:'foo*chr*;x:expression(log(*num*));/*';">DEF
-"'`>ABC<div style="font-family:'foo'*chr*x:expression(log(*num*));/*';">DEF

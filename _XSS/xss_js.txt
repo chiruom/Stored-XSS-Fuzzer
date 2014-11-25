@@ -1,3 +1,0 @@
-&#x61;lert(1);
-<%=properly encoded data for flow%>
-<div id="fuzzelement*num*"> <div title="*chr**chr*style=color:#FF1133" id="copyTarget*num*">*num* - test</div> </div>
